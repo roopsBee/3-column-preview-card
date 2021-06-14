@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./images/3-card-pic.png)
+![Screenshot](./images/3-card-pic.PNG)
 
 ### Links
 
