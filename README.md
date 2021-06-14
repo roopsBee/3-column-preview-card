@@ -29,12 +29,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./images/3-card-pic)
+![Screenshot](./images/3-card-pic.png)
 
 ### Links
 
-- Solution URL: [](https://github.com/roopsBee/3-column-preview-card)
-- Live Site URL: [](https://3-card-componenet-roopsbee.netlify.app/)
+- [Solution](https://github.com/roopsBee/3-column-preview-card)
+- [Live](https://3-card-componenet-roopsbee.netlify.app/)
 
 ## My process
 
