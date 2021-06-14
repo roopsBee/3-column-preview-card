@@ -57,7 +57,7 @@ main {
 }
 
 .card-button {
-  border: none;
+  border: 1px solid white;
   border-radius: 25px;
   width: 150px;
   height: 50px;
@@ -75,6 +75,12 @@ main {
 
 .card-button.luxury {
   color: var(--dark-cyan);
+}
+
+.card-button:hover {
+  cursor: pointer;
+  color: var(--primary-text);
+  background-color: transparent;
 }
 
 .card-sedan {
